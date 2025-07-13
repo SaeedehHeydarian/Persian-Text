@@ -1,2 +1,8 @@
-Topic modeling is an unsupervised learning technique that helps you automatically discover hidden thematic clusters in a collection of (unlabelled) texts.
-
+pandas==2.2.2
+seaborn==0.13.2
+matplotlib==3.8.4
+nest-asyncio==1.6.0
+scikit-learn==1.4.2
+hazm==0.9.1
+gensim==4.3.2
+sqlalchemy==2.0.30
